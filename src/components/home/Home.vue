@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    Home
+
   </div>
 </template>
 
@@ -20,6 +20,5 @@
 <style scoped>
   .home {
     height: calc(100vh - 70px);
-    border: 1px solid black;
   }
 </style>
